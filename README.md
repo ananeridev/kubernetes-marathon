@@ -26,5 +26,4 @@
 ### :whale: Using docker
 
  `sudo docker-compose run`
-# kubernetes-marathon
-# kubernetes-marathon
+
