@@ -16,3 +16,6 @@ services:
         image: mongo:3.5
         ports: 
             - 27017:2017
+
+## ---------- K8s - Pods
+
