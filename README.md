@@ -1,4 +1,4 @@
-# :whale: Marathon Kubernetes
+# :whale: Marathon Kubernetes course
 
 ## Node.js with MongoDB Example
 
